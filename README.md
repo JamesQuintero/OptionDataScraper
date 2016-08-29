@@ -1,7 +1,7 @@
 # Option-Data-Scraper
 Requires Python 3.x
 
-Scrapes option contract data from Yahoo Finance or Google Finance
+Scrapes stock option contract data from Yahoo Finance or Google Finance
 
 Folder "option_data" will be created. Inside, folders will be created
 with names of all the available contract expiration dates across all
